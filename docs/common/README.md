@@ -25,10 +25,10 @@ export default function sayHello () {
 ![使用别名引用](../images/vuepress/1.png)
 
 ```
-不使用别名引用
+### 不使用别名引用
 ![不使用别名引用](~@vuepress/1.png)
 
-使用别名引用
+### 使用别名引用
 ![使用别名引用](../images/vuepress/1.png)
 
 ## 使用自定义样式
@@ -41,3 +41,6 @@ export default function sayHello () {
 
 ## 在Markdown中使用Vue组件
 查看效果请点击此链接[在Markdown中使用Vue组件](/common/component.md)
+
+## 引用已有的代码片段
+<<< @/docs/.vuepress/js/hello.js {2}

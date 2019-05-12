@@ -19,7 +19,7 @@ module.exports = {
     // 所有页面自动生成侧边栏
     sidebar: 'auto',
     // 仓库地址
-    repo: 'https://github.com/wangtunan/blog',
+    repo: 'https://github.com/wangtunan/vuepress-blog-demo',
     // 仓库链接label
     repoLabel: 'Github',
     // 编辑链接
