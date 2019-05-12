@@ -5,11 +5,9 @@
 ## 配置截图
 
 ### 首页
-
-### 整体效果
-
+![首页](docs/images/vuepress/2.png)
 ### 基础配置效果
-
+![首页](docs/images/vuepress/3.png)
 ## 目录
 ```js
 |-- docs
@@ -45,6 +43,8 @@
 |--  |--  |   |   |--1.png
 |--  |--  |   |--vuepress
 |--  |--  |   |   |--1.png
+|--  |--  |   |   |--2.png
+|--  |--  |   |   |--3.png
 |--  |-- README.md
 |--  |-- package.json
 |--  |-- README.md
